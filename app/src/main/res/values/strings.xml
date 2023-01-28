@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">DevProfile</string>
+    <string name="logo">logo</string>
+    <string name="devslopes">DevSlopes</string>
+    <string name="camerabutton">cameraButton</string>
+    <string name="favoritebutton">favoriteButton</string>
+    <string name="inboxbutton">inboxButton</string>
+    <string name="dataimage">dataImage</string>
+    <string name="imageimage">imageImage</string>
+    <string name="videoimage">videoImage</string>
+    <string name="codeimage">codeImage</string>
 </resources>
